@@ -1,6 +1,6 @@
-class Sarthak{
-	public static void main(String[] args){
-	System.out.println("Hello");
-	System.out.print("hello");
+class DisplayHello{
+	public static void main(String[]args){
+		System.out.print("hello");
+		System.out.println("hello");
 	}
 }
